@@ -13,4 +13,5 @@ public class AdministradorController {
 		return "administrador/home";
 	}
 
+
 }
